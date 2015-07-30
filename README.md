@@ -10,7 +10,6 @@ A simple Go library for interacting with the IFTTT Maker Channel.
     maker.Value1 = ""
     maker.Value2 = ""
     maker.Value3 = ""
-    maker.Value4 = ""
 
     //Send our request
     maker.Send(key, event)
