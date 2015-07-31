@@ -1,7 +1,7 @@
 # go-ifttt-maker
 A super simple Go library for interacting with the IFTTT Maker Channel.
 
-# Usage
+## Usage
     //Create an instance of our Maker struct
     maker := new(GoIFTTTMaker.MakerChannel)
     key, event := "your maker key", "your maker event"
